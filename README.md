@@ -13,7 +13,7 @@ Quick learner committed to continuously improving my technical skills and buildi
 # 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/tanmay-singh-216380334"><img src="https://img.icons8.com/color/96/linkedin-circled--v1.png" width="56" height="56" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/tanmay-singh-216380334"><img src="https://img.icons8.com/color/96/linkedin.png" width="56" height="56" alt="LinkedIn" title="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:tanmaysingh2704@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="56" height="56" alt="Gmail" title="Gmail"/></a>
 </p>
@@ -67,7 +67,7 @@ Quick learner committed to continuously improving my technical skills and buildi
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="56" height="56" alt="Scikit-learn" title="Scikit-learn"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" width="56" height="56" alt="SciPy" title="SciPy"/>
+  <img src="https://raw.githubusercontent.com/scipy/scipy.org/main/logo.svg" width="56" height="56" alt="SciPy" title="SciPy"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="56" height="56" alt="TensorFlow" title="TensorFlow"/>
   &nbsp;&nbsp;&nbsp;
