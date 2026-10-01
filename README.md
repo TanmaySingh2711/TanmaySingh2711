@@ -55,7 +55,6 @@ A reinforcement learning agent that plays a Mario-style Pygame game on its own t
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-555555?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 - Trained a **PPO agent** in two stages for **16M steps** across **8 parallel environments**
 - Explored **84.25%** of the level's reachable pixels while still finishing the level in **56.6%** of 500 test episodes (vs 46.8% for the starting model)
@@ -115,14 +114,12 @@ My personal portfolio, built with Next.js, React, TypeScript, Tailwind CSS and F
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2E7D32?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **APIs & Databases**
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)
 ![Razorpay API](https://img.shields.io/badge/Razorpay_API-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Developer Tools**
 
