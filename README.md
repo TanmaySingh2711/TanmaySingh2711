@@ -1,36 +1,36 @@
 <div align="center">
 
-# Hi, I'm Tanmay Singh 👋
+# Hi, I'm TANMAY SINGH
 
 **Final-year B.E. (AI & Data Science) student · Aspiring AI Engineer**
 
-📍 Bengaluru, Karnataka, India
+Bengaluru, Karnataka, India
 
-<a href="https://linkedin.com/in/tanmay-singh-216380334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:tanmaysingh8970@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://tanmayportfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/tanmay-singh-216380334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=white&labelColor=161b22" alt="LinkedIn"/></a>
+<a href="mailto:tanmaysingh8970@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>
+<a href="https://tanmayportfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_site-6E40C9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" alt="Portfolio"/></a>
 <br/>
-<a href="https://www.geeksforgeeks.org/profile/tanmaysiaq6p"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<a href="https://www.hackerrank.com/profile/tanmaysingh4628"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-<a href="https://leetcode.com/u/vcYjoLhKrp/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/profile/tanmaysiaq6p"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=161b22" alt="GeeksforGeeks"/></a>
+<a href="https://www.hackerrank.com/profile/tanmaysingh4628"><img src="https://img.shields.io/badge/HackerRank-Profile-00A651?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=161b22" alt="HackerRank"/></a>
+<a href="https://leetcode.com/u/vcYjoLhKrp/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22" alt="LeetCode"/></a>
 
 </div>
 
 ---
 
-## 💫 About Me
+## ABOUT ME
 
 I'm a final-year B.E. student in **Artificial Intelligence and Data Science** who builds AI software that solves practical problems.
 
-- 🧠 Skilled in **Python, machine learning, deep learning, computer vision** and **web development**
-- 🛠️ Built a gesture-controlled game, a self-learning game-testing agent and an AI shopping assistant with secure test payments
-- 🎯 Currently seeking an **entry-level AI Engineer** role
+- Skilled in **Python, machine learning, deep learning, computer vision** and **web development**
+- Built a gesture-controlled game, a self-learning game-testing agent and an AI shopping assistant with secure test payments
+- Currently seeking an **entry-level AI Engineer** role
 
 ---
 
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
-### 🖐️ [CNN-Based Gesture Controlled Pac-Man](https://github.com/TanmaySingh2711/gesture-controlled-game)
+### [CNN-Based Gesture Controlled Pac-Man](https://github.com/TanmaySingh2711/gesture-controlled-game)
 
 A Pac-Man-style maze game you steer with hand gestures in front of a webcam.
 
@@ -46,7 +46,7 @@ A Pac-Man-style maze game you steer with hand gestures in front of a webcam.
 - Game runs at **~60 FPS** while gesture recognition runs at **30 FPS** on a separate thread
 - About **510 automated tests**, 94% coverage, CI on Windows, macOS and Linux
 
-### 🎮 [Glitch Hunter: AI Game Testing System](https://github.com/TanmaySingh2711/glitch_hunter_project)
+### [Glitch Hunter: AI Game Testing System](https://github.com/TanmaySingh2711/glitch_hunter_project)
 
 A reinforcement learning agent that plays a Mario-style Pygame game on its own to find bugs.
 
@@ -62,7 +62,7 @@ A reinforcement learning agent that plays a Mario-style Pygame game on its own t
 - Saves screenshot, GIF and PDF report evidence for every bug it finds
 - Live **Flask + Socket.IO dashboard** streams gameplay, actions, rewards and detected glitches
 
-### 🛒 [Razorpay Agentic Commerce](https://github.com/TanmaySingh2711/razorpay-agentic-commerce) · [Live Demo](https://razorpay-agentic-commerce-xi.vercel.app)
+### [Razorpay Agentic Commerce](https://github.com/TanmaySingh2711/razorpay-agentic-commerce) · [Live Demo](https://razorpay-agentic-commerce-xi.vercel.app)
 
 An AI shopping assistant where the AI only suggests a product and the server decides everything about money.
 
@@ -80,13 +80,13 @@ An AI shopping assistant where the AI only suggests a product and the server dec
 - Every decision and state change is stored in an audit trail
 - Deployed on **Vercel**
 
-### 🌐 [Portfolio Website](https://github.com/TanmaySingh2711/tanmay_portfolio) · [Live Site](https://tanmayportfolio-five.vercel.app/)
+### [Portfolio Website](https://github.com/TanmaySingh2711/tanmay_portfolio) · [Live Site](https://tanmayportfolio-five.vercel.app/)
 
 My personal portfolio, built with Next.js, React, TypeScript, Tailwind CSS and Framer Motion, deployed on Vercel.
 
 ---
 
-## 💻 Tech Stack
+## TECH STACK
 
 **Languages**
 
@@ -132,14 +132,14 @@ My personal portfolio, built with Next.js, React, TypeScript, Tailwind CSS and F
 
 ---
 
-## 🏆 Hackathons
+## HACKATHONS
 
 - **Hire-4-Thon**, National Level Hackathon (2026) · [View Certificate](https://tanmayportfolio-five.vercel.app/certificates/hire-4-thon-national-hackathon.pdf)
 - **Hackathon-24**, College Level Hackathon (2024) · [View Certificate](https://tanmayportfolio-five.vercel.app/certificates/hackathon-24-kssem.pdf)
 
 ---
 
-## 📜 Certifications
+## CERTIFICATIONS
 
 - **Introduction to Machine Learning**, VOIS (2025) · [View Certificate](https://tanmayportfolio-five.vercel.app/certificates/introduction-to-machine-learning-vois.pdf)
 - **Getting Started with Artificial Intelligence**, IBM SkillsBuild (2024) · [View Certificate](https://tanmayportfolio-five.vercel.app/certificates/getting-started-with-ai-ibm.pdf)
