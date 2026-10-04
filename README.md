@@ -53,7 +53,6 @@ A reinforcement learning agent that plays a Mario-style Pygame game on its own t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-555555?style=for-the-badge)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-555555?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 - Trained a **PPO agent** in two stages for **16M steps** across **8 parallel environments**
@@ -68,11 +67,9 @@ An AI shopping assistant where the AI only suggests a product and the server dec
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![Razorpay API](https://img.shields.io/badge/Razorpay_API-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 
 - **Google Gemini** buyer agent understands plain-language shopping requests and proposes a product within the user's budget
 - Server validates price, spending limits, inventory and authorization; purchases above ₹3,000 need human approval
