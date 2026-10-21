@@ -40,11 +40,9 @@ Ask questions about research-paper PDFs and get answers that point to the exact 
 ![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-555555?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-- Built a local **Retrieval-Augmented Generation (RAG)** assistant where you upload research-paper PDFs, ask questions in plain English, and get answers that cite the exact paper and page
-- Combined **FAISS** semantic search and **BM25** keyword search into a hybrid retriever, then re-ranked the top 20 chunks with a **cross-encoder** to keep only the most relevant ones
-- Raised top-1 retrieval from **60.0% to 88.3%** and answer accuracy from **86.8% to 97.1%** on a 68-question evaluation set, and reached **100% top-3 retrieval** on a real IEEE paper
-- Generates answers locally with **Llama 3.2 via Ollama**, with offline OCR for scanned pages, streamed answers, follow-up questions and saved chats, so no API keys or cloud services are needed
-- Built a **Flask** dashboard that answers in **1–1.5 s on a laptop CPU**, plus a CI pipeline on Windows, macOS and Linux that fails the build if retrieval or answer quality drops
+- Built a local **Retrieval-Augmented Generation (RAG)** assistant that answers questions on research-paper PDFs with page-level citations, using **FAISS and BM25 hybrid search**, cross-encoder re-ranking, and **Llama 3.2 via Ollama**
+- Raised top-1 retrieval from **60.0% to 88.3%** and answer accuracy from **86.8% to 97.1%** on a 68-question test set
+- Added offline OCR, streamed answers, and saved chats in a Flask dashboard, answering in **1–1.5 s on a CPU**
 
 ### [Razorpay Agentic Commerce](https://github.com/TanmaySingh2711/razorpay-agentic-commerce) · [Live Demo](https://razorpay-agentic-commerce-xi.vercel.app)
 
@@ -56,13 +54,11 @@ An AI shopping assistant where the AI only suggests a product and the server dec
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Razorpay API](https://img.shields.io/badge/Razorpay_API-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 
-- Built an AI buyer agent with **Google Gemini** that turns plain-language shopping requests into product picks, using tool calls to search the catalog and structured JSON output
-- Kept money decisions out of the AI: a server-side policy layer rechecks prices, budgets, inventory and authorization before any payment is created
-- Added a **human approval** step for purchases above **₹3,000**, so a large order can never go through on the AI's suggestion alone
-- Integrated **Razorpay Test Mode** with signature and webhook verification, payment retries and inventory reservation, and stored every decision in an audit trail
-- Built with **Next.js, TypeScript and PostgreSQL**, and deployed on **Vercel** with a live demo that runs safely in test mode, so no real money can move
+- Deployed on **Vercel** an AI buyer agent that uses **Google Gemini** to turn shopping requests into product picks
+- Built a server-side policy layer that checks prices, budgets, and inventory, with **human approval above ₹3,000**
+- Integrated **Razorpay Test Mode** with signature and webhook verification, retries, stock reservation, and audit logs
 
-### [Glitch Hunter : AI Game Testing System](https://github.com/TanmaySingh2711/glitch_hunter_project)
+### [Glitch Hunter: AI Game Testing System](https://github.com/TanmaySingh2711/glitch_hunter_project)
 
 A reinforcement learning agent that plays a Mario-style Pygame game on its own to find bugs.
 
@@ -71,11 +67,9 @@ A reinforcement learning agent that plays a Mario-style Pygame game on its own t
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-555555?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-- Built a reinforcement learning agent that plays a Mario-style Pygame game on its own to find bugs, using a custom **Gymnasium** environment and **Stable-Baselines3 PPO**
-- Trained it in two stages for **16 million steps** across **8 parallel environments**, raising level completion from **46.8% to 56.6%** over 500 test runs
-- The final agent explored **84.25%** of the level's reachable area, so it tests much more of the game than an agent that only learns the fastest path to the finish
-- Wrote a runtime glitch detector with **13 game-state rules** for movement, clipping, score and coin bugs, with replay verification and screenshot, GIF and PDF evidence for each bug
-- Built a live **Flask and Socket.IO** dashboard that streams gameplay, actions, rewards and detected glitches while the agent is playing
+- Trained a **PPO reinforcement learning agent** for **16 million steps** across **8 parallel environments** to explore a Mario-style game, raising level completion from **46.8% to 56.6%** over 500 runs
+- Developed a runtime glitch detector using **13 game-state rules** to catch movement, clipping, score, and coin bugs, saving screenshot, GIF, and PDF evidence for each bug
+- Built a live **Flask and Socket.IO dashboard** streaming AI gameplay, actions, rewards, and detected glitches
 
 ### [CNN-Based Gesture Controlled Pac-Man](https://github.com/TanmaySingh2711/gesture-controlled-game)
 
@@ -87,11 +81,9 @@ A Pac-Man-style maze game you steer with hand gestures in front of a webcam.
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2E7D32?style=for-the-badge)
 
-- Fine-tuned a **MobileNetV2 CNN** in PyTorch on 2,000 HaGRID images to recognise four hand gestures (fist, palm, thumbs up, thumbs down) as left, right, up and down
-- Reached **99.0% test accuracy** on held-out images and **99.6%** on 2,000 images of 1,727 people the model had never seen during training
-- Built a real-time **OpenCV** pipeline with CUDA-enabled inference, a 0.90 confidence threshold and 3-of-5 frame smoothing to stop accidental turns
-- Runs the Pac-Man-style **Pygame** game at about **60 FPS** while gesture recognition runs at **30 FPS** on a separate thread, so the game never waits for the camera
-- Backed the project with automated tests at **94% coverage** and a CI pipeline that runs on Windows, macOS and Linux for every change
+- Fine-tuned a **MobileNetV2 CNN** on 2,000 HaGRID images for real-time hand gesture classification, achieving **99.0% test accuracy** and **99.6%** accuracy on 2,000 images of unseen people
+- Developed a real-time computer vision pipeline with OpenCV, CUDA-enabled PyTorch inference, confidence thresholding, and temporal smoothing to turn webcam gestures into game controls
+- Engineered a Pac-Man-style Pygame game with ghost AI and levels, running at **60 FPS** with **30 FPS** gesture input
 
 ---
 
